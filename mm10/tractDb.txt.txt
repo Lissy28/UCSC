@@ -1,0 +1,89 @@
+
+track Br_Gt_BC_Wts
+container multiWig
+shortLabel Br_Gt_BC_Wts
+longLabel Br_Gt_BC_Wts
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:1000
+viewLimitsMax 0:100
+alwaysZero on
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track Br_Gt_BC_Wts_mat
+bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_Bl6_mat.bw
+shortLabel Br_Gt_BC_Wts_Bl6_mat
+longLabel Br_Gt_BC_Wts_Bl6_mat
+parent Br_Gt_BC_Wts
+color 255,0,0
+type bigWig
+
+track Br_Gt_BC_Wts_pat
+bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_Cast_pat.bw
+shortLabel Br_Gt_BC_Wts_Cast_pat
+longLabel Br_Gt_BC_Wts_Cast_pat
+parent Br_Gt_BC_Wts
+color 0,150,255
+type bigWig
+
+track Br_Gt_CB_Wts
+container multiWig
+shortLabel Gt_CB_Wts
+longLabel Gt_CB_Wts
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:1000
+viewLimitsMax 0:100
+alwaysZero on
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track Br_Gt_CB_Wts_pat
+bigDataUrl ../4C_BigWig/Br_Gt_CB_Wts_Bl6_pat.bw
+shortLabel Br_Gt_CB_Wts_Bl6_pat
+longLabel Br_Gt_CB_Wts_Bl6_pat
+parent Br_Gt_CB_Wts
+color 0,150,255
+type bigWig
+
+track Br_Gt_CB_Wts_mat
+bigDataUrl ../4C_BigWig/Br_Gt_CB_Wts_Cast_mat.bw
+shortLabel Br_Gt_CB_Wts_Cast_mat
+longLabel Br_Gt_CB_Wts_Cast_mat
+parent Br_Gt_CB_Wts
+color 255,0,0
+type bigWig
+
+
+track Br_Gt_BC_Wts_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_MatPatDiff.bw
+shortLabel Br_Gt_BC_Wts_MatPatDiff
+longLabel Br_Gt_BC_Wts_MatPatDiff
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+type bigWig
+
+track Br_Gt_CB_Wts_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_CB_Wts_MatPatDiff.bw
+shortLabel Br_Gt_CB_Wts_MatPatDiff
+longLabel Br_Gt_CB_Wts_MatPatDiff
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+type bigWig

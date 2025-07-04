@@ -1,4 +1,3 @@
-
 track Br_Gt_BC_Wts
 container multiWig
 shortLabel Br_Gt_BC_Wts
@@ -62,7 +61,6 @@ longLabel Br_Gt_CB_Wts_Cast_mat
 parent Br_Gt_CB_Wts
 color 255,0,0
 type bigWig
-
 
 track Br_Gt_BC_Wts_MatPatDiff
 bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_MatPatDiff.bw

@@ -1,4 +1,4 @@
-hub Brain_and_Liver_tracks
+hub External_Data_cae28
 shortLabel External_Data_cae28
 longLabel External_Data_cae28
 genomesFile genomes.txt

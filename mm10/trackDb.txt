@@ -463,8 +463,8 @@ type bigWig
 
 track Br_Gt_IndelMats
 container multiWig
-shortLabel Br_Gt_Indel_Mats
-longLabel Br_Gt_Indel_Mats
+shortLabel Br_Gt_IndelMats
+longLabel Br_Gt_IndelMats
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -495,8 +495,8 @@ type bigWig
 
 track Br_Gt_IndelMats_MatPatDiff
 bigDataUrl ../4C_BigWig/Br_Gt_IndelMats_MatPatDiff.bw
-shortLabel Br_Gt_Indel_Mats_MatPatDiff
-longLabel Br_Gt_Indel_Mats_MatPatDiff
+shortLabel Br_Gt_IndelMats_MatPatDiff
+longLabel Br_Gt_IndelMats_MatPatDiff
 autoScale off
 viewLimits -200:200
 smoothingWindow 5

@@ -646,8 +646,8 @@ type bigWig
 
 track Br_Gt_WdCtMats_MatPatDiff
 bigDataUrl ../4C_BigWig/Br_Gt_WdCtMats_MatPatDiff.bw
-shortLabel Br_Gt_WdCt_Mats_MatPatDiff
-longLabel Br_Gt_WdCt_Mats_MatPatDiff
+shortLabel Br_Gt_WdCtMats_MatPatDiff
+longLabel Br_Gt_WdCtMats_MatPatDiff
 visibility full
 autoScale off
 viewLimits -200:200

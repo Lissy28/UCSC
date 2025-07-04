@@ -693,7 +693,7 @@ color 255,0,0
 type bigWig
 
 track Br_Gt_WdCtPats_MatPatDiff
-bigDataUrl ../4C_BigWig/Br_Gt_WdCt_Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Br_Gt_WdCtPats_MatPatDiff.bw
 shortLabel Br_Gt_WdCtPats_MatPatDiff
 longLabel Br_Gt_WdCtPats_MatPatDiff
 visibility full

@@ -6,7 +6,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 autoScale off
-viewLimits 0:1000
+viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
 smoothingWindow 5
@@ -30,6 +30,20 @@ parent Br_Gt_BC_Wts
 color 0,150,255
 type bigWig
 
+track Br_Gt_BC_Wts_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_MatPatDiff.bw
+shortLabel Br_Gt_BC_Wts_MatPatDiff
+longLabel Br_Gt_BC_Wts_MatPatDiff
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+alwaysZero on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+
 track Br_Gt_CB_Wts
 container multiWig
 shortLabel Gt_CB_Wts
@@ -38,7 +52,7 @@ visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
 autoScale off
-viewLimits 0:1000
+viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
 smoothingWindow 5
@@ -62,18 +76,6 @@ parent Br_Gt_CB_Wts
 color 255,0,0
 type bigWig
 
-track Br_Gt_BC_Wts_MatPatDiff
-bigDataUrl ../4C_BigWig/Br_Gt_BC_Wts_MatPatDiff.bw
-shortLabel Br_Gt_BC_Wts_MatPatDiff
-longLabel Br_Gt_BC_Wts_MatPatDiff
-autoScale off
-viewLimits -200:200
-smoothingWindow 5
-windowingFunction mean
-color 255,0,0
-altColor 0,150,255
-type bigWig
-
 track Br_Gt_CB_Wts_MatPatDiff
 bigDataUrl ../4C_BigWig/Br_Gt_CB_Wts_MatPatDiff.bw
 shortLabel Br_Gt_CB_Wts_MatPatDiff
@@ -81,7 +83,101 @@ longLabel Br_Gt_CB_Wts_MatPatDiff
 autoScale off
 viewLimits -200:200
 smoothingWindow 5
+alwaysZero on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+
+track Br_Gt_895Mats
+container multiWig
+shortLabel Br_Gt_895_Mats
+longLabel Br_Gt_895_Mats
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:500
+viewLimitsMax 0:100
+alwaysZero on
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track Br_Gt_895Mats_mat
+bigDataUrl ../4C_BigWig/Br_Gt_895Mats_Bl6_mat.bw
+shortLabel Br_Gt_895Mats_Bl6_mat
+longLabel Br_Gt_895Mats_Bl6_mat
+parent Br_Gt_895Mats
+color 255,0,0
+type bigWig
+
+track Br_Gt_895Mats_pat
+bigDataUrl ../4C_BigWig/Br_Gt_895Mats_Cast_pat.bw
+shortLabel Br_Gt_895Mats_Cast_pat
+longLabel Br_Gt_895Mats_Cast_pat
+parent Br_Gt_895Mats
+color 0,150,255
+type bigWig
+
+track Br_Gt_895Mats_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_895_Mats_MatPatDiff.bw
+shortLabel Br_Gt_895_Mats_MatPatDiff
+longLabel Br_Gt_895_Mats_MatPatDiff
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+alwaysZero on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+
+track Br_Gt_895Pats
+container multiWig
+shortLabel Br_Gt_895Pats
+longLabel Br_Gt_895Pats
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:500
+viewLimitsMax 0:100
+alwaysZero on
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track Br_Gt_895Pats_pat
+bigDataUrl ../4C_BigWig/Br_Gt_895Pats_Bl6_pat.bw
+shortLabel Br_Gt_895Pats_Bl6_pat
+longLabel Br_Gt_895Pats_Bl6_pat
+parent Br_Gt_895Pats
+color 0,150,255
+type bigWig
+
+track Br_Gt_895Pats_mat
+bigDataUrl ../4C_BigWig/Br_Gt_895Pats_Cast_mat.bw
+shortLabel Br_Gt_CB_Wts_Cast_mat
+longLabel Br_Gt_CB_Wts_Cast_mat
+parent Br_Gt_895Pats
+color 255,0,0
+type bigWig
+
+track Br_Gt_895Pats_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_895_Pats_MatPatDiff.bw
+shortLabel Br_Gt_895Pats_MatPatDiff
+longLabel Br_Gt_895Pats_MatPatDiff
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+alwaysZero on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
 type bigWig

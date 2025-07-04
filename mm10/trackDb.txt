@@ -308,7 +308,7 @@ color 0,150,255
 type bigWig
 
 track Br_Gt_C6Mats_MatPatDiff
-bigDataUrl ../4C_BigWig/Br_Gt_C6_Mats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Br_Gt_CT6_Mats_MatPatDiff.bw
 shortLabel Br_Gt_C6Mats_MatPatDiff
 longLabel Br_Gt_C6Mats_MatPatDiff
 autoScale off
@@ -355,7 +355,7 @@ color 255,0,0
 type bigWig
 
 track Br_Gt_C6Pats_MatPatDiff
-bigDataUrl ../4C_BigWig/Br_Gt_C6_Pats_MatPatDiff.bw
+bigDataUrl ../4C_BigWig/Br_Gt_CT6_Pats_MatPatDiff.bw
 shortLabel Br_Gt_C6Pats_MatPatDiff
 longLabel Br_Gt_C6Pats_MatPatDiff
 autoScale off

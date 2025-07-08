@@ -47,8 +47,8 @@ type bigWig
 
 track Br_Gt_CB_Wts
 container multiWig
-shortLabel Gt_CB_Wts
-longLabel Gt_CB_Wts
+shortLabel Br_Gt_CB_Wts
+longLabel Br_Gt_CB_Wts
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -756,8 +756,8 @@ type bigWig
 
 track Br_Dl_CB_Wts
 container multiWig
-shortLabel Dl_CB_Wts
-longLabel Dl_CB_Wts
+shortLabel Br_Dl_CB_Wts
+longLabel Br_Dl_CB_Wts
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on
@@ -1370,8 +1370,8 @@ type bigWig
 
 track Br_Wd_CB_Wts
 container multiWig
-shortLabel Wd_CB_Wts
-longLabel Wd_CB_Wts
+shortLabel Br_Wd_CB_Wts
+longLabel Br_Wd_CB_Wts
 visibility full
 aggregate transparentOverlay
 showSubtrackColorOnUi on

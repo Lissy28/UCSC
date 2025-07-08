@@ -9,6 +9,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on 
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -39,6 +40,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -56,6 +58,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -86,6 +89,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -103,6 +107,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -133,6 +138,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -151,6 +157,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -181,6 +188,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -198,6 +206,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -228,6 +237,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -245,6 +255,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -275,6 +286,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -292,6 +304,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -322,6 +335,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -340,6 +354,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -370,6 +385,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -387,6 +403,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -417,6 +434,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -435,6 +453,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -465,6 +484,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -482,6 +502,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -512,6 +533,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -529,6 +551,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -559,6 +582,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -576,6 +600,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -606,6 +631,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -623,6 +649,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -653,6 +680,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -671,6 +699,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -701,6 +730,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -718,6 +748,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -748,6 +779,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -765,6 +797,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -795,6 +828,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -812,6 +846,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -842,6 +877,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -860,6 +896,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -890,6 +927,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -907,6 +945,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -937,6 +976,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -954,6 +994,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -984,6 +1025,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1001,6 +1043,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1031,6 +1074,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1049,6 +1093,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1079,6 +1124,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1096,6 +1142,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1126,6 +1173,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1144,6 +1192,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1174,6 +1223,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1191,6 +1241,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1221,6 +1272,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1238,6 +1290,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1268,6 +1321,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1285,6 +1339,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1315,6 +1370,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1332,6 +1388,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1362,6 +1419,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1379,6 +1437,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1409,6 +1468,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1426,6 +1486,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1456,6 +1517,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1474,6 +1536,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1504,6 +1567,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1521,6 +1585,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1551,6 +1616,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1568,6 +1634,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1598,6 +1665,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1615,6 +1683,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1645,6 +1714,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1663,6 +1733,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1693,6 +1764,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1710,6 +1782,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1740,6 +1813,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1758,6 +1832,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1788,6 +1863,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1805,6 +1881,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1835,6 +1912,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1852,6 +1930,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1882,6 +1961,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1899,6 +1979,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1929,6 +2010,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1946,6 +2028,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -1976,6 +2059,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -1994,6 +2078,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -2024,6 +2109,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255
@@ -2041,6 +2127,7 @@ autoScale off
 viewLimits 0:500
 viewLimitsMax 0:100
 alwaysZero on
+yLineOnOff on
 smoothingWindow 5
 windowingFunction mean
 maxHeightPixels 100:80:8
@@ -2071,6 +2158,7 @@ autoScale off
 viewLimits -200:200
 smoothingWindow 5
 alwaysZero on
+yLineOnOff on
 windowingFunction mean
 color 255,0,0
 altColor 0,150,255

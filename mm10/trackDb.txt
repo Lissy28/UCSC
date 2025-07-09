@@ -1355,8 +1355,8 @@ type bigWig
 
 track Br_Dl_CGIPats_mat
 bigDataUrl ../4C_BigWig/Br_Dl_CGIPats_Cast_mat.bw
-shortLabel Br_Dl_CB_Wts_mat_Cast
-longLabel Br_Dl_CB_Wts_mat_Cast
+shortLabel Br_Dl_CGIPats_mat_Cast
+longLabel Br_Dl_CGIPats_mat_Cast
 parent Br_Dl_CGIPats
 color 255,0,0
 type bigWig
@@ -1995,8 +1995,8 @@ type bigWig
 
 track Br_Wd_CGIPats_mat
 bigDataUrl ../4C_BigWig/Br_Wd_CGIPats_Cast_mat.bw
-shortLabel Br_Wd_CB_Wts_mat_Cast
-longLabel Br_Wd_CB_Wts_mat_Cast
+shortLabel Br_Wd_CGIPats_mat_Cast
+longLabel Br_Wd_CGIPats_mat_Cast
 parent Br_Wd_CGIPats
 color 255,0,0
 type bigWig

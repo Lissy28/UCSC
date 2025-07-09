@@ -21,6 +21,7 @@ shortLabel Br_Gt_BC_Wts_mat_Bl6
 longLabel Br_Gt_BC_Wts_mat_Bl6
 parent Br_Gt_BC_Wts
 color 255,0,0
+yLineOnOff on 
 type bigWig
 
 track Br_Gt_BC_Wts_pat
@@ -29,6 +30,7 @@ shortLabel Br_Gt_BC_Wts_pat_Cast
 longLabel Br_Gt_BC_Wts_pat_Cast
 parent Br_Gt_BC_Wts
 color 0,150,255
+yLineOnOff on 
 type bigWig
 
 track Br_Gt_BC_Wts_MatPatDiff

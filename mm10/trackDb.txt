@@ -616,8 +616,8 @@ type bigWig
 
 track Br_Gt_CGIPats_mat
 bigDataUrl ../4C_BigWig/Br_Gt_CGIPats_Cast_mat.bw
-shortLabel Br_Gt_CB_Wts_mat_Cast
-longLabel Br_Gt_CB_Wts_mat_Cast
+shortLabel Br_Gt_CGIPats_mat_Cast
+longLabel Br_Gt_CGIPats_mat_Cast
 parent Br_Gt_CGIPats
 color 255,0,0
 type bigWig

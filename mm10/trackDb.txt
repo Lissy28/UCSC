@@ -2758,7 +2758,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Gt_IndMats_Log2
-bigDataUrl ../4C_BigWig/Br_Gt_IndMats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Gt_IndelMats_Log2.bw
 shortLabel Br_Gt_IndMats_Log2
 longLabel Br_Gt_IndMats_Log2
 visibility full
@@ -2775,7 +2775,7 @@ type bigWig
 
 
 track Br_Gt_IndPats_Log2
-bigDataUrl ../4C_BigWig/Br_Gt_IndPats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Gt_IndelPats_Log2.bw
 shortLabel Br_Gt_IndPats_Log2
 longLabel Br_Gt_IndPats_Log2
 visibility full
@@ -2939,7 +2939,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_IndMats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_IndMats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_IndelMats_Log2.bw
 shortLabel Br_Dl_IndMats_Log2
 longLabel Br_Dl_IndMats_Log2
 visibility full
@@ -2956,7 +2956,7 @@ type bigWig
 
 
 track Br_Dl_IndPats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_IndPats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_IndelPats_Log2.bw
 shortLabel Br_Dl_IndPats_Log2
 longLabel Br_Dl_IndPats_Log2
 visibility full
@@ -3120,7 +3120,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Wd_IndMats_Log2
-bigDataUrl ../4C_BigWig/Br_Wd_IndMats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Wd_IndelMats_Log2.bw
 shortLabel Br_Wd_IndMats_Log2
 longLabel Br_Wd_IndMats_Log2
 visibility full
@@ -3137,7 +3137,7 @@ type bigWig
 
 
 track Br_Wd_IndPats_Log2
-bigDataUrl ../4C_BigWig/Br_Wd_IndPats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Wd_IndelPats_Log2.bw
 shortLabel Br_Wd_IndPats_Log2
 longLabel Br_Wd_IndPats_Log2
 visibility full

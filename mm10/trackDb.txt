@@ -2564,7 +2564,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_BC_Wts_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_BC_Wts_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_BC_Wts_Log2new.bw
 shortLabel Br_Dl_BC_Wts_Log2
 longLabel Br_Dl_BC_Wts_Log2
 visibility full
@@ -2580,7 +2580,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_CB_Wts_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_CB_Wts_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_CB_Wts_Log2new.bw
 shortLabel Br_Dl_CB_Wts_Log2
 longLabel Br_Dl_CB_Wts_Log2
 visibility full
@@ -2809,7 +2809,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_IGMats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_IGMats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_IGMats_Log2new.bw
 shortLabel Br_Dl_IGMats_Log2
 longLabel Br_Dl_IGMats_Log2
 visibility full
@@ -2826,7 +2826,7 @@ type bigWig
 
 
 track Br_Dl_IGPats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_IGPats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_IGPats_Log2new.bw
 shortLabel Br_Dl_IGPats_Log2
 longLabel Br_Dl_IGPats_Log2
 visibility full
@@ -2842,7 +2842,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_895Mats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_895Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_895Mats_Log2new.bw
 shortLabel Br_Dl_895Mats_Log2
 longLabel Br_Dl_895Mats_Log2
 visibility full
@@ -2859,7 +2859,7 @@ type bigWig
 
 
 track Br_Dl_895Pats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_895Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_895Pats_Log2new.bw
 shortLabel Br_Dl_895Pats_Log2
 longLabel Br_Dl_895Pats_Log2
 visibility full
@@ -2875,7 +2875,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_C6Mats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_C6Mats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_C6Mats_Log2new.bw
 shortLabel Br_Dl_C6Mats_Log2
 longLabel Br_Dl_C6Mats_Log2
 visibility full
@@ -2892,7 +2892,7 @@ type bigWig
 
 
 track Br_Dl_C6Pats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_C6Pats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_C6Pats_Log2new.bw
 shortLabel Br_Dl_C6Pats_Log2
 longLabel Br_Dl_C6Pats_Log2
 visibility full
@@ -2974,7 +2974,7 @@ maxHeightPixels 100:50:8
 type bigWig
 
 track Br_Dl_CGIPats_Log2
-bigDataUrl ../4C_BigWig/Br_Dl_CGIPats_Log2.bw
+bigDataUrl ../4C_BigWig/Br_Dl_CGIPats_Log2new.bw
 shortLabel Br_Dl_CGIPats_Log2
 longLabel Br_Dl_CGIPats_Log2
 visibility full

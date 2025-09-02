@@ -1554,7 +1554,7 @@ type bigWig
 
 track Br_Wd_IGPats_mat
 bigDataUrl ../4C_BigWig/Br_Wd_IGPats_Cast_mat.bw
-shortLabelBr_Wd_IGPats_mat_Cast
+shortLabel Br_Wd_IGPats_mat_Cast
 longLabel Br_Wd_IGPats_mat_Cast
 parent Br_Wd_IGPats
 color 255,0,0

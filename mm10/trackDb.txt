@@ -569,8 +569,8 @@ type bigWig
 
 track Br_Gt_IndelPats_mat
 bigDataUrl ../4C_BigWig/Br_Gt_IndelPats_Cast_mat.bw
-shortLabel Br_Gt_CB_Wts_mat_Cast
-longLabel Br_Gt_CB_Wts_mat_Cast
+shortLabel Br_Gt_IndelPats_mat_Cast
+longLabel Br_Gt_IndelPats_mat_Cast
 parent Br_Gt_IndelPats
 color 255,0,0
 type bigWig
@@ -1308,8 +1308,8 @@ type bigWig
 
 track Br_Dl_IndelPats_mat
 bigDataUrl ../4C_BigWig/Br_Dl_IndPats_Cast_mat.bw
-shortLabel Br_Dl_CB_Wts_mat_Cast
-longLabel Br_Dl_CB_Wts_mat_Cast
+shortLabel Br_Dl_IndelPats_mat_Cast
+longLabel Br_Dl_IndelPats_mat_Cast
 parent Br_Dl_IndelPats
 color 255,0,0
 type bigWig
@@ -1948,8 +1948,8 @@ type bigWig
 
 track Br_Wd_IndelPats_mat
 bigDataUrl ../4C_BigWig/Br_Wd_IndPats_Bl6_mat.bw
-shortLabel Br_Wd_CB_Wts_mat_Bl6
-longLabel Br_Wd_CB_Wts_mat_Bl6
+shortLabel Br_Wd_IndelPats_mat_Bl6
+longLabel Br_Wd_IndelPats_mat_Bl6
 parent Br_Wd_IndelPats
 color 255,0,0
 type bigWig
@@ -3317,3 +3317,69 @@ color 255,0,0
 altColor 0,150,255
 maxHeightPixels 100:50:8
 type bigWig
+
+track Br_Gt_IndelPats1234
+container multiWig
+shortLabel Br_Gt_IndelPats1234
+longLabel Br_Gt_IndelPats1234
+visibility full
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+autoScale off
+viewLimits 0:500
+viewLimitsMax 0:100
+alwaysZero on
+yLineOnOff on
+smoothingWindow 5
+windowingFunction mean
+maxHeightPixels 100:80:8
+type bigWig
+
+track Br_Gt_IndelPats1234_pat
+bigDataUrl ../4C_BigWig/Br_Gt_IndelPats1234_Bl6_pat.bw
+shortLabel Br_Gt_IndelPats1234_pat_Bl6
+longLabel Br_Gt_IndelPats1234_pat_Bl6
+parent Br_Gt_IndelPats1234
+color 0,150,255
+type bigWig
+
+track Br_Gt_IndelPats1234_mat
+bigDataUrl ../4C_BigWig/Br_Gt_IndelPats1234_Cast_mat.bw
+shortLabel Br_Gt_IndelPats1234_mat_Cast
+longLabel Br_Gt_IndelPats1234_Cast
+parent Br_Gt_IndelPats1234
+color 255,0,0
+type bigWig
+
+track Br_Gt_IndelPats1234_MatPatDiff
+bigDataUrl ../4C_BigWig/Br_Gt_IndelPats1234_MatPatDiff.bw
+shortLabel Br_Gt_IndelPats1234_MatPatDiff
+longLabel Br_Gt_IndelPats1234_MatPatDiff
+visibility full
+autoScale off
+viewLimits -200:200
+smoothingWindow 5
+alwaysZero on
+yLineOnOff on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+
+track Br_Gt_IndPats1234_Log2
+bigDataUrl ../4C_BigWig/Br_Gt_IndelPats1234_Log2.bw
+shortLabel Br_Gt_IndPats1234_Log2
+longLabel Br_Gt_IndPats1234_Log2
+visibility full
+autoScale off
+viewLimits -2:2
+smoothingWindow 5
+alwaysZero on
+yLineOnOff on
+windowingFunction mean
+color 255,0,0
+altColor 0,150,255
+maxHeightPixels 100:50:8
+type bigWig
+

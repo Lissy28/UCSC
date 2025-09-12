@@ -717,8 +717,8 @@ type bigWig
 
 track Br_Gt_WdCtPats_mat
 bigDataUrl ../4C_BigWig/Br_Gt_WdCtPats_Cast_mat.bw
-shortLabel Br_Gt_CB_Wts_mat_Cast
-longLabel Br_Gt_CB_Wts_mat_Cast
+shortLabel Br_Gt_WdCtPats_mat_Cast
+longLabel Br_Gt_WdCtPats_mat_Cast
 parent Br_Gt_WdCtPats
 color 255,0,0
 type bigWig
